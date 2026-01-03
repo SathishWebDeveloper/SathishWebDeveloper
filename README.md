@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me SathishKumar V C 
 
-Software Engineer @ Mitrahsoft Software Solutions
+Software Developer @ Mitrahsoft Software Solutions
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 My PortFolio is Loading 
 - 🌱 I’m currently learning DSA
@@ -8,7 +8,7 @@ Software Engineer @ Mitrahsoft Software Solutions
 - 🤔 Interested in interactive website create
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/sathishkumar-v-c-115808152)
+<br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/sathishkumar-vc)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I am a Hacker.
 
